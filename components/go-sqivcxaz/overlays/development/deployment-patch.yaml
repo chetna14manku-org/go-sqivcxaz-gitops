@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/chetna14manku_org/go-sqivcxaz:fb02d2e91d09931c92439025f98f38bdeddddf34@sha256:36ce2248db8ebec3ed720053a2d9ef696f6ebf84a4863a9724b9ce84ac0f0140
+        - image: quay.io/chetna14manku_org/go-sqivcxaz:4c6643945d3f17d204b617905a47ac905383f1a6@sha256:e64773b7a5392706c6a8fb24bc7abc8ccf333653dbb8c1b328f69666e44d6e86
           name: container-image
